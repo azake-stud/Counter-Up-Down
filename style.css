@@ -29,7 +29,7 @@ h1 {
 }
 
 .btn:hover {
-    background-color: rgb(99, 241, 147);
+    background-color: rgb(85, 223, 131);
     color: black;
     transition: all 250ms linear;
 }
